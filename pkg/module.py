@@ -1,5 +1,5 @@
-def moda():
+def mod_a():
     print("mod a")
 
-def modb():
+def mod_b():
     print("mod b")
